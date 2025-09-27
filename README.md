@@ -26,24 +26,13 @@ A simple React application that allows users to add products to a shopping cart,
 
 ---
 
-## Project Structure
-
-src/
-│
-├── App.jsx # Main application component managing the cart state
-├── productItem.jsx # Component displaying a single product
-├── App.css # Additional styles (optional)
-└── index.js # Entry point of the application
-
----
-
 ## How to Run
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR-GITHUB-USERNAME/Shopping-cart.git
-cd shopping-cart
+cd Shopping-cart
 
 
 Install dependencies:
@@ -60,13 +49,17 @@ Open in your browser:
 
 http://localhost:3000
 
-Usage
+---
+
+Usage:
 
 Add a product by typing its name in the input field and clicking Add Product.
 
 Click Purchased to mark a product as purchased (the text will be crossed out).
 
 Click Delete to remove a product from the cart.
+
+---
 
 Author
 
