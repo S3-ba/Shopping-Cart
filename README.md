@@ -61,6 +61,6 @@ Click Delete to remove a product from the cart.
 
 ---
 
-Author
+Author : S3-ba
 
-Made By: S3-ba
+
